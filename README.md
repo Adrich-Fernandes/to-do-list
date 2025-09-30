@@ -2,8 +2,6 @@
 
 A **dynamic, dark-mode To-Do List** web app built with **HTML, CSS & JavaScript**, featuring task management and persistent storage.
 
-![App Screenshot](screenshot.png)
-
 ---
 
 ## 🚀 Features
@@ -23,3 +21,15 @@ A **dynamic, dark-mode To-Do List** web app built with **HTML, CSS & JavaScript*
 ---
 
 ## 📂 Project Structure
+
+```│
+├── index.html # Main HTML file
+├── todo.css # Styling
+├── todo.js # JavaScript functionality
+└── README.md # Project documentation
+```
+
+👤 Author
+Adrich Ancy Fernandes
+📧 adrichancyfernandes@gmail.com
+📍 Kumta, Karnataka
